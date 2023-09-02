@@ -10,3 +10,12 @@
 html {
 	font-size: 62.5%;
 }
+
+body {
+	background-color: rgba(0, 0, 0, 0.23);
+	min-height: 100vh;
+}
+
+.btn {
+	display: inline-block;
+}
