@@ -23,5 +23,5 @@ body {
 	cursor: pointer;
 	padding: 0.4375em 0.875em;
 	border: 1px solid transparent;
-	background-color: transparent;
+	background-color: lightgray;
 }
